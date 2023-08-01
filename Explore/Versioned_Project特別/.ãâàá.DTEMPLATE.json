@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "4sv8oTgFHQWf4lBXdOy8ES",
+    "name" : "ãâàá",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001C1700000000001B"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-08-01T02:30:26.281Z",
+  "objectRefs" : [ ]
+}
